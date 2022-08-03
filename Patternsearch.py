@@ -1,3 +1,4 @@
+"""This is a very basic patttern search # beginner level  probably I'll try to improve this code or upload a better one"""
 from math import exp, log, sqrt
 import re
 
